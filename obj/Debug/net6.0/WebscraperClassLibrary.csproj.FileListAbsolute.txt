@@ -1,0 +1,12 @@
+C:\$chool\Semester 2\Webscraper\bin\Debug\net6.0\WebscraperClassLibrary.deps.json
+C:\$chool\Semester 2\Webscraper\bin\Debug\net6.0\WebscraperClassLibrary.dll
+C:\$chool\Semester 2\Webscraper\bin\Debug\net6.0\WebscraperClassLibrary.pdb
+C:\$chool\Semester 2\Webscraper\obj\Debug\net6.0\WebscraperClassLibrary.csproj.AssemblyReference.cache
+C:\$chool\Semester 2\Webscraper\obj\Debug\net6.0\WebscraperClassLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\$chool\Semester 2\Webscraper\obj\Debug\net6.0\WebscraperClassLibrary.AssemblyInfoInputs.cache
+C:\$chool\Semester 2\Webscraper\obj\Debug\net6.0\WebscraperClassLibrary.AssemblyInfo.cs
+C:\$chool\Semester 2\Webscraper\obj\Debug\net6.0\WebscraperClassLibrary.csproj.CoreCompileInputs.cache
+C:\$chool\Semester 2\Webscraper\obj\Debug\net6.0\WebscraperClassLibrary.dll
+C:\$chool\Semester 2\Webscraper\obj\Debug\net6.0\refint\WebscraperClassLibrary.dll
+C:\$chool\Semester 2\Webscraper\obj\Debug\net6.0\WebscraperClassLibrary.pdb
+C:\$chool\Semester 2\Webscraper\obj\Debug\net6.0\ref\WebscraperClassLibrary.dll
